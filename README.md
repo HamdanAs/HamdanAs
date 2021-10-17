@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning - Microservices
 - 👯 I’m looking to collaborate with - Anyone
 - 💬 Ask me about - Java and HTML, CSS, JS anytime :)
-- 🥅 2021 Goal - Have a microservice using Go
+- 🥅 2021 Goal - Get a job
 - ⚡ Fun fact - Im learning Japanese language
 
 ---
