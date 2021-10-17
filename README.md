@@ -2,6 +2,15 @@
 
 ---
 
+- 🔭 I’m currently working on - Freelancer
+- 🌱 I’m currently learning - Microservices
+- 👯 I’m looking to collaborate with - Anyone
+- 💬 Ask me about - Java and HTML, CSS, JS anytime :)
+- 🥅 2021 Goal - Have a microservice using Go
+- ⚡ Fun fact - Im a gamer and bad at gaming
+
+---
+
 My name is Hamdan Abyadi Suwandi. Im a Vocational High School student. I love to learn programming technologies. I have five years experience in programming since 2nd grade of Junior High School. But i started to taking seriously when i was 1st grade of VHS. currently im 3rd grade.
 
 My favorite programming language was Java for desktop apps. i started to learn it when i was 2nd grade. I have basic in HTML, CSS, and JS too. Learned MVC for PHP and Java. And for framework i have basic in Laravel and Vue. And currently im learning Go.
