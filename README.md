@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with - Anyone
 - 💬 Ask me about - Java and HTML, CSS, JS anytime :)
 - 🥅 2021 Goal - Have a microservice using Go
-- ⚡ Fun fact - Im a gamer and bad at gaming
+- ⚡ Fun fact - Im learning Japanese language
 
 ---
 
