@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working on - Freelancer
+- 🔭 I’m currently working at - PT Makerindo Prima Solusi
 - 🌱 I’m currently learning - Microservices
 - 👯 I’m looking to collaborate with - Anyone
 - 💬 Ask me about - Java and HTML, CSS, JS anytime :)
