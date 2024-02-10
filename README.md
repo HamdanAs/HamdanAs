@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning - Microservices
 - 👯 I’m looking to collaborate with - Anyone
 - 💬 Ask me about - Java and HTML, CSS, JS anytime :)
-- 🥅 2021 Goal - Get a job
-- ⚡ Fun fact - Im learning Japanese language
+- 🥅 2021 Goal - Start Bussiness
+- ⚡ Fun fact - I love photography, cosplay, and anime
 
 ---
 
